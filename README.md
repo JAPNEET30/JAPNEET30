@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JAPNEET30
-- 👀 I’m interested in creating a multithreaded file transfer system for windows
+- 👀 I’m interested in creating a multithreaded file transfer system for Windows
 - And a Net banking Simulation System.
-- 🌱 I’m currently learning java, python, c# in general pourpose languages
-- For web development I'm working on html, css, php, .net framework, javascript,
-- (learning typescript is an interest but havent entered the system yet).
+- 🌱 I’m currently learning Java, python, c# in general-purpose languages
+- For web development, I'm working on HTML, CSS, PHP, .net framework, javascript,
+- (learning typescript is an interest but I haven't entered the system yet).
 
-Interested in understanding newer technologies.
+I am interested in understanding newer technologies.
